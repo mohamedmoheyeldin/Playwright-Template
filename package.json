@@ -1,0 +1,14 @@
+{
+  "name": "playwright-template",
+  "version": "1.0.0",
+  "description": "Playwright Project With Some Custom Work As Template",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Mohamed Moheyeldin",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.16"
+  }
+}
