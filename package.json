@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Playwright Project With Some Custom Work As Template",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "pw:test": "npx playwright test",
+    "pw:test:ui": "npx playwright test --ui"
+  },
   "keywords": [],
   "author": "Mohamed Moheyeldin",
   "license": "ISC",
