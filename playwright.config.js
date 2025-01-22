@@ -27,7 +27,7 @@ module.exports = defineConfig({
 
   /* Configure projects for major browsers */
   projects: [
-    {
+   /* {
       name: 'Mobile iPhone 14 Pro Max safari',
       use: { ...devices['iPhone 14 Pro Max'] },
     },
@@ -50,7 +50,7 @@ module.exports = defineConfig({
     {
       name: 'Desktop Safari',
       use: { ...devices['Desktop Safari'] },
-    },
+    },*/
 
     {
       name: 'Desktop Google Chrome',

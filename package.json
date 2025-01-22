@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "pw:test": "npx playwright test",
-    "pw:test:ui": "npx playwright test --ui"
+    "pw:test:ui": "npx playwright test --ui",
+    "pw:test:headful": "npx playwright show-report"
   },
   "keywords": [],
   "author": "Mohamed Moheyeldin",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.41.2",
-    "@types/node": "^20.11.16"
+    "@playwright/test": "^1.49.1"
   }
 }
